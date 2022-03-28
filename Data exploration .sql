@@ -1,5 +1,5 @@
 -- In the "depression_by_sexe" we find the number depressive Mens and Womens, I've decided to explore, with finding the rare and each year.
--- Afterward, I find an another table so I've calculated the percentage of depressive people on the global population.
+-- Afterward, I find an another table with the global population for years (demographgie.population_france) in france so I've calculated the percentage of depressive people on the global population.
 
 SELECT 
 	d.Entity, 
